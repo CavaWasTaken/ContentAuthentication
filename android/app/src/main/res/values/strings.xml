@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">ContentAuth</string>
+    <string name="title_activity_main">ContentAuth</string>
+    <string name="package_name">ionic.ContentAuth</string>
+    <string name="custom_url_scheme">ionic.ContentAuth</string>
+</resources>
