@@ -23,25 +23,25 @@ This application provides a **blockchain-based content authentication system** t
 
 ## Key Features
 
-### 🔐 Content Authentication & Protection
+### Content Authentication & Protection
 - **Unique Smart Contract per Content**: Each digital content is associated with a dedicated smart contract ensuring authenticity and provenance
 - **Blockchain Registration**: Content metadata (author, hash, publication date) is permanently recorded on blockchain
 - **IPFS Integration**: Decentralized file storage with Content Identifiers (CIDs) for verifiable integrity
 - **Deepfake Prevention**: Immutable records make it difficult to spread falsified or manipulated content
 
-### 👨‍🎨 Artist Control & Rights Management
+### Artist Control & Rights Management
 - **Artist Registration**: Users can register as artists to publish and protect their content
 - **Content Publishing**: Upload files to IPFS and create protective smart contracts with content hash
 - **Permission System**: Artists can approve or reject requests to reuse their content
 - **Child Contracts**: Authorized derivative works are tracked through child contracts linked to the original
 
-### 🤝 Content Reuse & Licensing
+### Content Reuse & Licensing
 - **Reuse Requests**: Any user can request permission to use protected content
 - **Authorization Workflow**: Artists receive and manage requests through the application
 - **Derivative Tracking**: Child contracts maintain references to parent contracts for complete traceability
 - **Transparent Permissions**: All granted permissions are recorded on-chain
 
-### 📱 Cross-Platform Support
+### Cross-Platform Support
 - **Web Application**: Browser-based access via React interface
 - **Android Mobile App**: Native mobile experience using Ionic framework
 - **Wallet Integration**: MetaMask and other Web3 wallets supported via WalletConnect
@@ -165,16 +165,16 @@ tempDapp/
 
 ## Use Cases
 
-### 🎨 Protecting Original Artwork
+### Protecting Original Artwork
 Artists upload their digital art to IPFS, create protective smart contracts, and maintain full control over derivative works and licensing.
 
-### 🎬 Authenticating Video Content
+### Authenticating Video Content
 Content creators register videos on-chain to prove authenticity and combat deepfake distribution.
 
-### 🎵 Music Licensing & Remixes
+### Music Licensing & Remixes
 Musicians can authorize remixes and derivative works while maintaining traceability and copyright protection.
 
-### 📸 Photography Rights Management
+### Photography Rights Management
 Photographers protect their images and grant specific usage rights through on-chain permissions.
 
 ## Technologies Used
