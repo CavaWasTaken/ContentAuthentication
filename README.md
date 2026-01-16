@@ -187,20 +187,7 @@ Photographers protect their images and grant specific usage rights through on-ch
 - **Smart Contract Interaction**: Wagmi hooks, ethers.js
 - **Build Tool**: Vite
 - **Mobile Framework**: Capacitor
-- **Testing**: Cypress (E2E), Ganache (local blockchain)
-
-## Academic Context
-
-**Thesis Title**: "Decentralized Application for Security and Authentication of Digital Content"  
-**Subtitle**: "Using Smart Contracts and Blockchain Against Copyright Infringement and Deepfakes"
-
-**Author**: Lorenzo Cavallaro  
-**Supervisor**: Prof./Dr. Sara Migliorini  
-**Department**: Department of Computer Science  
-**Institution**: University of Verona  
-**Academic Year**: 2023-2024  
-**Degree Program**: Bachelor of Computer Science  
-**Thesis Type**: Compilative Thesis
+- **Testing**: Cypress (E2E), Ganache (local blockchain)s
 
 This project originated from a university internship focused on creating blockchain-based solutions for digital rights management and content protection.
 
@@ -261,7 +248,3 @@ Potential improvements and extensions:
 ## License
 
 Academic project developed for educational purposes.
-
-## Contact
-
-For questions or collaboration inquiries related to this thesis project, please refer to the university contact information.
